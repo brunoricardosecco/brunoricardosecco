@@ -6,6 +6,6 @@
 
 :pencil: I'm currently learning GoLang and Typescript
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunricardosecco&count_private=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunricardosecco&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoricardosecco&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
