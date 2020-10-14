@@ -2,9 +2,9 @@
 
 - :computer: I’m currently working at [Luby Software](https://github.com/lubysoftware)
 
-- :coffee: Let's talk?: [LinkedIn](https://www.linkedin.com/in/brunoricardosecco/)
+- :pencil: I'm currently learning GoLang and Typescript
 
-:pencil: I'm currently learning GoLang and Typescript
+- :coffee: Let's talk?: [LinkedIn](https://www.linkedin.com/in/brunoricardosecco/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunoricardosecco&count_private=true&&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
