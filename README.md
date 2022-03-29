@@ -1,8 +1,8 @@
 ### Hey u, welcome!
 
-- :computer: I’m currently working at [Luby Software](https://github.com/lubysoftware)
+- :computer: I’m currently working at [Kiwi](https://www.getkiwi.ca/)
 
-- :pencil: I'm currently learning GoLang and Typescript
+- :pencil: I'm currently learning AWS
 
 - :coffee: Let's talk? [LinkedIn](https://www.linkedin.com/in/brunoricardosecco/)
 
