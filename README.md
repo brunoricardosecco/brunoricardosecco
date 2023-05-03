@@ -1,8 +1,6 @@
 ### Hey u, welcome!
 
-- :computer: I’m currently working at [Kiwi](https://www.getkiwi.ca/)
-
-- :pencil: I'm currently learning AWS
+- :computer: I’m currently working at [DreamDev](https://dreamdev.io/)
 
 - :coffee: Let's talk? [LinkedIn](https://www.linkedin.com/in/brunoricardosecco/)
 
